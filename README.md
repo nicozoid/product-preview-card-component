@@ -2,18 +2,18 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
-## Live page
+### Live page
 
 [https://nicozoid.github.io/product-preview-card-component](https://nicozoid.github.io/product-preview-card-component)
 
 
-## Built with
+### Built with
 
 Hand-coded CSS & HTML. No AI. 
 
 *(Consciously restricting myself to aid my learning)*
 
-## What I learned
+### What I learned
 
 - Creating classes that correspond with the Figma file text styles is quicker (when building from a Figma file) than creating variables for each sub-element of the text style. Mirroring the Figma structure just makes everything more straightforward.
 - `overflow: hidden` seems to be the CSS equivalent of the 'clip content' checkbox in Figma.
