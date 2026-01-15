@@ -5,7 +5,7 @@
 
 This is a solution to a [challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) on Frontend Mentor.
 
-Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid my learning)*
+Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid my learning).*
 
 ### What I learned
 
@@ -15,7 +15,7 @@ Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid
 - My emerging process flow seems to work well (see below).
 
 ### Process
-*Mobile only until final stage*
+*(Work on mobile only until final stage)*
 1. Create HTML — should correspond with Figma frame hierarchy
 1. Create empty CSS classes corresponding with the frames, using BEM naming system
 1. Create variables
