@@ -15,7 +15,7 @@ Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid
 - My emerging process flow seems to work well (see below).
 
 ### Process
-*(Work on mobile only until final stage)*
+*(Work on mobile design only until final stage)*
 1. Create HTML — should correspond with Figma frame hierarchy
 1. Create empty CSS classes corresponding with the frames, using BEM naming system
 1. Create variables
