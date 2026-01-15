@@ -3,7 +3,7 @@
 
 **[View live solution](https://nicozoid.github.io/product-preview-card-component)**
 
-This is a solution to the [Product preview card component challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) on Frontend Mentor.
+This is a solution to a [challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) on Frontend Mentor.
 
 Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid my learning)*
 
@@ -12,9 +12,9 @@ Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid
 - Creating classes that correspond with the Figma file text styles is quicker (when building from a Figma file) than creating variables for each sub-element of the text style. Mirroring the Figma structure just makes everything more straightforward.
 - `overflow: hidden` seems to be the CSS equivalent of the 'clip content' checkbox in Figma.
 - It's possible to specify class sub-types through reference only to the raw html tag (e.g. `button img` defines rules for images within buttons). I didn't realise that until this project!
+- My emerging process flow seems to work well (see below).
 
-My refined process flow seems to work well:
-
+### Process
 *Mobile only until final stage*
 1. Create HTML — should correspond with Figma frame hierarchy
 1. Create empty CSS classes corresponding with the frames, using BEM naming system
