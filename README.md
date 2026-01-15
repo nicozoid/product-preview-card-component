@@ -1,17 +1,11 @@
-# Frontend Mentor - Product preview card component solution
-
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
-
-### Live page
-
-[https://nicozoid.github.io/product-preview-card-component](https://nicozoid.github.io/product-preview-card-component)
+# Product preview card component solution
 
 
-### Built with
+**[View live solution](https://nicozoid.github.io/product-preview-card-component)**
 
-Hand-coded CSS & HTML. No AI. 
+This is a solution to the [Product preview card component challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) on Frontend Mentor.
 
-*(Consciously restricting myself to aid my learning)*
+Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid my learning)*
 
 ### What I learned
 
@@ -20,6 +14,7 @@ Hand-coded CSS & HTML. No AI.
 - It's possible to specify class sub-types through reference only to the raw html tag (e.g. `button img` defines rules for images within buttons). I didn't realise that until this project!
 
 My refined process flow seems to work well:
+
 *Mobile only until final stage*
 1. Create HTML — should correspond with Figma frame hierarchy
 1. Create empty CSS classes corresponding with the frames, using BEM naming system
