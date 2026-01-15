@@ -113,6 +113,7 @@ picture img {
     @media (min-width: 600px)
     {
         width: 300px;
+        height:min-content;
         max-width: fit-content;
         display: block;
     }

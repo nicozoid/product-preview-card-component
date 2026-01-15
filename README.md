@@ -12,6 +12,7 @@ Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid
 - Creating classes that correspond with the Figma file text styles is quicker (when building from a Figma file) than creating variables for each sub-element of the text style. Mirroring the Figma structure just makes everything more straightforward.
 - `overflow: hidden` seems to be the CSS equivalent of the 'clip content' checkbox in Figma.
 - It's possible to specify class sub-types through reference only to the raw html tag (e.g. `button img` defines rules for images within buttons). I didn't realise that until this project!
+- When doing the responsive adjustments, don't forget to ensure any breakpoints used in '<picture>' elements in the HTML correspond precisely with the CSS breakpoints.
 - My emerging process flow seems to work well (see below).
 
 ### Process
